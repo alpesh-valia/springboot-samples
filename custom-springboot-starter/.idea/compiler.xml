@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="custom-springboot-starter.application.main" target="1.8" />
+      <module name="custom-springboot-starter.application.test" target="1.8" />
+      <module name="custom-springboot-starter.greet-api-client.main" target="1.8" />
+      <module name="custom-springboot-starter.greet-api-client.test" target="1.8" />
+      <module name="custom-springboot-starter.greet-api.main" target="1.8" />
+      <module name="custom-springboot-starter.greet-api.test" target="1.8" />
+      <module name="custom-springboot-starter.main" target="1.8" />
+      <module name="custom-springboot-starter.springboot-starter.main" target="1.8" />
+      <module name="custom-springboot-starter.springboot-starter.test" target="1.8" />
+      <module name="custom-springboot-starter.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
